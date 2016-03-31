@@ -11,7 +11,7 @@ title:               eric castoldi
 tagline:             'thoughts and actions on code'
 #description:         'in this blog i am sharing my marvelous adventures in code. by <a href="https://twitter.com/ericcastoldi" target="_blank">@ericcastoldi</a>.'
 url:                 http://ericcastoldi.github.io
-baseurl:             ''
+baseurl:             'http://ericcastoldi.github.io/'
 paginate:            5
 
 # About/contact
