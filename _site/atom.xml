@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>eric castoldi</title>
+ <link href="http://ericcastoldi.github.io/atom.xml" rel="self"/>
+ <link href="http://ericcastoldi.github.io/"/>
+ <updated>2016-03-30T21:04:57-03:00</updated>
+ <id>http://ericcastoldi.github.io</id>
+ <author>
+   <name>Eric Castoldi</name>
+   <email>ericcastoldi@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>First thoughts</title>
+   <link href="http://ericcastoldi.github.io/2016/03/30/first-thougths/"/>
+   <updated>2016-03-30T00:00:00-03:00</updated>
+   <id>http://ericcastoldi.github.io/2016/03/30/first-thougths</id>
+   <content type="html">&lt;p&gt;So I finally got to do this! I was thinking about getting myself a blog for a long time, but like the guys from &lt;a href=&quot;https://en.wikipedia.org/wiki/NOFX&quot;&gt;NOFX&lt;/a&gt; I too am a &lt;a href=&quot;http://www.azlyrics.com/lyrics/nofx/professionalcrastination.html&quot;&gt;Professional Crastinator&lt;/a&gt;. Now the plan is simple, every time that I put my hands on code or feel inspired about some new idea I am going to share it here. It’s a win-win.&lt;/p&gt;
+
+&lt;p&gt;I started my mission looking for blogging engines, all I wanted was something simple and to blog with markdown. I never thought that were &lt;a href=&quot;https://www.google.com/search?q=blog+with+markdown&quot;&gt;so many choices&lt;/a&gt;, and with great choices came also great complications, right uncle ben?&lt;/p&gt;
+
+&lt;p&gt;So I remembered some websites I have seen with this “github.io” kind of url. Weird… but well, why not?
+Turns out this &lt;a href=&quot;https://pages.github.com/&quot;&gt;github-pages&lt;/a&gt; thing is just amazing, and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; also is amazing, now everything is beautiful and life is good. All I ever wanted: blog in markdown with my good old friend &lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; and post with a &lt;code class=&quot;highlighter-rouge&quot;&gt;git push&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the next few days I may start a series of posts sharing some thoughts about testing. From A to TDD.&lt;/p&gt;
+
+&lt;p&gt;Keep tuned!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

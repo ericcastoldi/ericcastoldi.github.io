@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# Setup
+title:               eric castoldi
+tagline:             'thoughts and actions on code'
+#description:         'in this blog i am sharing my marvelous adventures in code. by <a href="https://twitter.com/ericcastoldi" target="_blank">@ericcastoldi</a>.'
+url:                 http://ericcastoldi.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Eric Castoldi
+  url:               https://twitter.com/ericcastoldi
+  email:             ericcastoldi@gmail.com
+
