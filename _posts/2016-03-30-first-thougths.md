@@ -12,4 +12,4 @@ Turns out this [github-pages](https://pages.github.com/) thing is just amazing, 
 
 In the next few days I may start a series of posts sharing some thoughts about testing. From A to TDD.
 
-Keep tuned!   
+Stay tuned!   
